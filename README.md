@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there
+Welcome to my corner of github where I work on funny little projects
+Don't expect much from me though
 <!--
 **Ehseezed/Ehseezed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
